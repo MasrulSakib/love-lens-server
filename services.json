@@ -1,7 +1,7 @@
 [
     {
         "_id": "1",
-        "image": "wedding_day_coverage.jpg",
+        "image": "https://heatherdodgephotography.com/wp-content/uploads/sites/7094/2019/11/Charlottesville-Wedding-King-Family-Vineyard-FaithSam-Heather-Dodge-Photography_0066.jpg",
         "rating": 4.9,
         "title": "Wedding Day Coverage",
         "price": "$3000",
@@ -9,7 +9,7 @@
     },
     {
         "_id": "2",
-        "image": "engagement_sessions.jpg",
+        "image": "https://autumnmariephotography.com/wp-content/uploads/2020/02/Lake-tahoe-wedding-photographer-adventure-engagement-session-LT-105.jpg",
         "rating": 4.7,
         "title": "Engagement Sessions",
         "price": "$2000",
@@ -17,7 +17,7 @@
     },
     {
         "_id": "3",
-        "image": "customized_packages.jpg",
+        "image": "https://natashianicolephotography.com/wp-content/uploads/2015/05/06-1250-post/photography-usb-packaging-custom-flash-drives-wedding-photography-packaging.jpg",
         "rating": 4.5,
         "title": "Customized Packages",
         "price": "$1500",
@@ -25,7 +25,7 @@
     },
     {
         "_id": "4",
-        "image": "high_quality_prints.jpg",
+        "image": "https://images.squarespace-cdn.com/content/v1/57273ee9b09f951c90d62e76/1592935565047-HM5T8GVDSF8P185D28EC/04_Crackel-Acorn-Leather-Album.jpg",
         "rating": 4.8,
         "title": "High-Quality Prints and Albums",
         "price": "$500",
@@ -33,7 +33,7 @@
     },
     {
         "_id": "5",
-        "image": "second_shooter_option.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0163/6622/files/Depositphotos_220329880_l-2015_1024x1024_2b70f20b-3e31-4bee-a336-c2f2ff9a2989_1024x1024.jpg?v=1568046216",
         "rating": 4.6,
         "title": "Second Shooter Option",
         "price": "$200",
@@ -41,7 +41,7 @@
     },
     {
         "_id": "6",
-        "image": "online_gallery.jpg",
+        "image": "https://katedrennan.com/wp-content/uploads/2019/05/Onilne-Gallery-Style-2048x1536(pp_w768_h576).jpg",
         "rating": 4.9,
         "title": "Online Gallery",
         "price": "Free",
