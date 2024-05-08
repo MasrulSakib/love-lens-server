@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "1",
+        "image": "wedding_day_coverage.jpg",
+        "rating": 4.9,
+        "title": "Wedding Day Coverage",
+        "price": "$3000",
+        "description": "Our Wedding Day Coverage package ensures that every moment of your special day is beautifully captured and preserved for a lifetime of memories. From the anticipation of getting ready to the emotional exchange of vows, and all the way through to the joyous celebration at the reception, our expert photographers will be there to document every precious moment. With a keen eye for detail and a commitment to excellence, we strive to capture the essence and emotion of your wedding day in a way that is authentic and timeless. Whether it's the tender glances, the heartfelt speeches, or the exhilarating dance floor moments, we'll ensure that no memory is left uncaptured. Trust us to turn your wedding day into a beautifully curated story that you'll cherish forever."
+    },
+    {
+        "_id": "2",
+        "image": "engagement_sessions.jpg",
+        "rating": 4.7,
+        "title": "Engagement Sessions",
+        "price": "$2000",
+        "description": "Celebrate the unique journey of your love story with our Engagement Sessions. This relaxed and fun photo session is designed to capture the essence of your relationship and the excitement of the journey towards your wedding day. Whether you envision a romantic outdoor setting, a chic urban landscape, or a cozy indoor ambiance, we'll work with you to choose the perfect location that reflects your personalities and style. Our professional photographers will provide guidance and direction to ensure you feel comfortable and confident in front of the camera, resulting in beautifully authentic images that showcase your love and connection. From playful moments to intimate gestures, our Engagement Sessions are an opportunity to create stunning photographs that capture this special chapter in your lives and serve as a lasting reminder of the love you share."
+    },
+    {
+        "_id": "3",
+        "image": "customized_packages.jpg",
+        "rating": 4.5,
+        "title": "Customized Packages",
+        "price": "$1500",
+        "description": "We understand that every wedding is unique, which is why we offer Customized Packages tailored to suit your specific needs, preferences, and budget. Whether you're planning an intimate elopement or a lavish celebration, we'll work closely with you to create a package that perfectly aligns with your vision for your special day. Our experienced team will guide you through the process, offering personalized recommendations and expert advice to ensure every detail is taken care of. From the number of hours of coverage to the inclusion of engagement sessions and additional services, our Customized Packages allow you to create a photography experience that is truly tailored to you. Let us bring your vision to life and capture every moment of your wedding day in a way that is as unique and special as you are."
+    },
+    {
+        "_id": "4",
+        "image": "high_quality_prints.jpg",
+        "rating": 4.8,
+        "title": "High-Quality Prints and Albums",
+        "price": "$500",
+        "description": "Preserve your cherished memories with our High-Quality Prints and Albums. We understand the importance of preserving your precious moments for generations to come, which is why we only use the finest archival-quality paper and materials to create prints and albums that stand the test of time. Our professional printing process ensures vibrant colors, sharp details, and exceptional clarity, bringing your images to life in stunning detail. Whether you choose to display your favorite photographs in a beautifully crafted album or adorn your walls with framed prints and canvases, our high-quality products will showcase your memories in the best possible light. Trust us to provide you with exquisite prints and albums that you'll treasure for a lifetime."
+    },
+    {
+        "_id": "5",
+        "image": "second_shooter_option.jpg",
+        "rating": 4.6,
+        "title": "Second Shooter Option",
+        "price": "$200",
+        "description": "Ensure comprehensive coverage of your wedding day with our Second Shooter Option. Adding a second photographer to your wedding day coverage allows us to capture multiple angles, perspectives, and moments simultaneously, ensuring that no detail is overlooked. Whether it's capturing the groom's reaction as the bride walks down the aisle or candid moments between guests during the reception, our team of experienced photographers will work seamlessly together to document every aspect of your special day. With our Second Shooter Option, you can relax knowing that every precious moment will be beautifully captured from start to finish."
+    },
+    {
+        "_id": "6",
+        "image": "online_gallery.jpg",
+        "rating": 4.9,
+        "title": "Online Gallery",
+        "price": "Free",
+        "description": "Share and relive the magic of your wedding day with our Online Gallery. Our convenient online platform allows you to easily view, share, and download your wedding photos from the comfort of your own home. With password-protected access, you can rest assured that your photos are safe and secure, while still being easily accessible to you and your loved ones. Share the joy with friends and family by sending them the link to your personalized gallery, where they can view and download their favorite images with just a few clicks. With our Online Gallery, you can revisit your special day whenever you want, wherever you are, and cherish the memories for years to come."
+    }
+]
