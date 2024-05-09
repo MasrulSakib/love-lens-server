@@ -49,8 +49,10 @@ async function run() {
             res.send(service);
         })
 
-        app.get('/reviews', async (req, res) => {
-            const query = {};
+        app.get('/reviews/:title', async (req, res) => {
+            const title = req.params.title;
+            console.log(title)
+            const query = { title: title };
             const cursor = reviewCollection.find(query);
             const reviews = await cursor.toArray();
             res.send(reviews);

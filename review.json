@@ -1,44 +1,162 @@
 [
     {
+        "couple": "Jason & Gabbie",
         "title": "Wedding Day Coverage",
-        "reviewer_image": "https://wezoree.com/upload/user_tmp_files/384/kthpep4gz5t3awi6arzd35qtk218myec.jpeg",
+        "reviewer_image": "https://bobbibarbarich.ca/wp-content/uploads/2023/02/MadraMichael-123-scaled-1951x1300.jpg",
         "rating": 5,
         "review_title": "Absolutely Amazing Experience!",
         "review": "I cannot express how thrilled we are with the wedding day coverage provided by Love Lens. From the initial consultation to the final delivery of our photos, everything was flawless. The photographers were professional, attentive, and captured every moment beautifully. Our photos are breathtaking, and they truly tell the story of our special day. We cannot thank Love Lens enough for their exceptional service and talent. Highly recommend!"
     },
     {
+        "couple": "Rohan & Raji",
         "title": "Engagement Sessions",
-        "reviewer_image": "https://wezoree.com/upload/user_tmp_files/340/mi535k4hb2fnopxrf05tpdgkeic6dzrp.png",
+        "reviewer_image": "https://images.squarespace-cdn.com/content/v1/5b8607c39d5abb9151a1ed12/1661572773555-SZJ1G6P9N4I6RN43ZW4I/Hunter+valley+wedding+photography+278.JPG?format=1000w",
         "rating": 4.8,
         "review_title": "Memorable Engagement Shoot!",
         "review": "Our engagement session with Love Lens was an absolute dream! The photographer made us feel so comfortable and relaxed, which resulted in the most stunning photos. They perfectly captured our personalities and the love we share. The entire experience was so much fun, and we are beyond thrilled with the final images. Thank you, Love Lens, for creating such beautiful memories for us!"
     },
     {
+        "couple": "Joseph & Rihanna",
         "title": "Customized Packages",
-        "reviewer_image": "https://wezoree.com/upload/user_tmp_files/384/kthpep4gz5t3awi6arzd35qtk218myec.jpeg",
+        "reviewer_image": "https://www.lookslikefilm.com/wp-content/uploads/2021/05/bigsurcaliforniaelopement-16.jpg",
         "rating": 4.5,
         "review_title": "Flexible and Accommodating!",
         "review": "We were impressed with the flexibility and personalized service offered by Love Lens. They worked closely with us to create a customized package that fit our needs and budget perfectly. The team was responsive, professional, and attentive to detail throughout the entire process. We couldn't be happier with our decision to choose Love Lens for our wedding photography needs!"
     },
     {
+        "couple": "Khaleed & Sneha",
         "title": "High-Quality Prints and Albums",
-        "reviewer_image": "https://wezoree.com/upload/user_tmp_files/645/ifmy1i6j660duu5yhslbn7xx7oz3mx8f.jpg",
+        "reviewer_image": "https://weddingdiary.com.bd/wp-content/uploads/2023/05/www.weddingdiary.com_.bd_.0001.jpg",
         "rating": 4.9,
         "review_title": "Exquisite Prints and Albums!",
         "review": "The prints and albums provided by Love Lens are absolutely stunning! The quality is top-notch, and every detail is flawless. We are so impressed with how our wedding photos turned out in print. The albums are beautifully crafted and truly showcase our special day in the best possible way. Thank you, Love Lens, for providing such exquisite products!"
     },
     {
+        "couple": "Rafin & Rossi",
         "title": "Second Shooter Option",
-        "reviewer_image": "https://m.media-amazon.com/images/I/61nCf5GodrL._UC256,256_CACC,256,256_.jpg",
+        "reviewer_image": "https://www.emilianorusso.com/wp-content/uploads/2022/01/emiliano-russo-italian-wedding-photographer-best-wedding-photohrapher-italy-1024x683.jpg",
         "rating": 4.7,
         "review_title": "Captured Every Moment Perfectly!",
         "review": "Adding a second shooter to our wedding day coverage was one of the best decisions we made! Love Lens did an incredible job of capturing every moment from multiple angles. The photographers worked seamlessly together, ensuring that no detail was overlooked. We are so grateful for the comprehensive coverage provided by Love Lens and highly recommend their second shooter option!"
     },
     {
+        "couple": "John & Scarlett",
         "title": "Online Gallery",
-        "reviewer_image": "https://wezoree.com/upload/user_tmp_files/a87/a875034b25c23212dac1032aea6d305c.jpg",
+        "reviewer_image": "https://images.squarespace-cdn.com/content/v1/5202f733e4b0fee2e1ae7361/7222d552-d1af-449a-99d5-d6c89237fefe/vancouver-wedding-photographer",
         "rating": 4.6,
         "review_title": "Convenient and User-Friendly!",
         "review": "The online gallery provided by Love Lens made it easy for us to view, share, and download our wedding photos. The platform is user-friendly, and we appreciated the password-protected access for privacy. Being able to share our photos with friends and family was a breeze, and everyone loved how convenient it was to download their favorite images. Thank you, Love Lens, for providing such a wonderful service!"
+    },
+    {
+        "couple": "Alex & Sophie",
+        "title": "Wedding Day Coverage",
+        "reviewer_image": "https://onehorizonproductions.com/wp-content/uploads/2023/03/SP_0021-scaled.webp",
+        "rating": 4.9,
+        "review_title": "Fantastic Service!",
+        "review": "We had an amazing experience with Love Lens for our wedding day coverage. The photographers were incredibly professional and captured every special moment beautifully. They went above and beyond to ensure we felt comfortable and got the shots we wanted. The final photos exceeded our expectations, and we are so grateful to Love Lens for helping make our day unforgettable!"
+    },
+    {
+        "couple": "David & Mia",
+        "title": "Wedding Day Coverage",
+        "reviewer_image": "https://images.squarespace-cdn.com/content/v1/60e9be515db2c37fc0b82696/1626569134489-K3T922RX2ODDTF1OIJ4G/MooneyHowe-9090+%281%29.jpg",
+        "rating": 4.7,
+        "review_title": "Highly Recommend!",
+        "review": "Love Lens provided exceptional service for our wedding day coverage. They were organized, friendly, and very talented. The photographers captured all the important moments with precision and creativity. The photos turned out stunning, and we are thrilled with the results. Thank you, Love Lens, for making our wedding day even more special!"
+    },
+    {
+        "couple": "Michael & Lisa",
+        "title": "Wedding Day Coverage",
+        "reviewer_image": "https://hannawalkowaik.com/wp-content/uploads/2023/07/12_orange-county-photographer-editorial-wedding-portraits-0039.jpg",
+        "rating": 4.5,
+        "review_title": "Beautiful Photos!",
+        "review": "We are so happy with the wedding day coverage provided by Love Lens. The photographers were professional and captured the essence of our special day perfectly. The photos are absolutely beautiful and will be cherished forever. Thank you, Love Lens, for the wonderful memories!"
+    },
+    {
+        "couple": "Ryan & Emma",
+        "title": "Engagement Sessions",
+        "reviewer_image": "https://www.yourperfectweddingphotographer.co.uk/wp-content/uploads/2018/12/Wedding-Photography-Prices-Packages.jpg",
+        "rating": 4.8,
+        "review_title": "Fantastic Experience!",
+        "review": "Our engagement session with Love Lens was fantastic. The photographer was friendly and made us feel at ease throughout the shoot. The photos turned out amazing, and we had a lot of fun during the session. We highly recommend Love Lens for engagement photography!"
+    },
+    {
+        "couple": "Sarah & James",
+        "title": "Engagement Sessions",
+        "reviewer_image": "https://www.olivejoyphotography.co.uk/wp-content/uploads/2023/08/wedding-photography-sussex-02b.jpg",
+        "rating": 4.6,
+        "review_title": "Great Photos!",
+        "review": "We had a great experience with Love Lens for our engagement session. The photographer was talented and captured beautiful moments between us. The photos exceeded our expectations, and we are grateful to Love Lens for the wonderful memories!"
+    },
+    {
+        "couple": "Daniel & Chloe",
+        "title": "Engagement Sessions",
+        "reviewer_image": "https://www.howardbeachstudios.com/wp-content/uploads/2023/12/anthony-tran-RpfnNSs_JsE-unsplash.jpg",
+        "rating": 5,
+        "review_title": "Exceptional Service!",
+        "review": "Love Lens provided exceptional service for our engagement session. The photographer was professional, friendly, and made us feel comfortable throughout the shoot. The photos turned out stunning, and we couldn't be happier. Highly recommend!"
+    },
+    {
+        "couple": "Adam & Emily",
+        "title": "Customized Packages",
+        "reviewer_image": "https://www.rudyandmarta.com/wp-content/uploads/2020/05/rmp_kierluf-15%28pp_w1600_h1067%29.jpg",
+        "rating": 4.9,
+        "review_title": "Great Experience!",
+        "review": "We had a great experience working with Love Lens to create a customized package for our wedding. They listened to our preferences and offered excellent suggestions. The service was personalized and professional, and the end result exceeded our expectations. Thank you, Love Lens, for making our wedding day so special!"
+    },
+    {
+        "couple": "Mark & Lily",
+        "title": "Customized Packages",
+        "reviewer_image": "https://jacobgordonphotography.com/wp-content/uploads/2021/08/Image-5-scaled.jpg",
+        "rating": 4.7,
+        "review_title": "Wonderful Service!",
+        "review": "Love Lens provided wonderful service for our wedding. They were flexible, accommodating, and attentive to our needs. The customized package they created for us was perfect and exactly what we wanted. The photos turned out beautifully, and we are grateful to Love Lens for their expertise and dedication!"
+    },
+    {
+        "couple": "Luke & Olivia",
+        "title": "Customized Packages",
+        "reviewer_image": "https://www.adobe.com/content/dam/cc/us/en/creativecloud/photography/discover/wedding-photography/wedding_P2_720x350.jpg.img.jpg",
+        "rating": 4.5,
+        "review_title": "Excellent Photography!",
+        "review": "Love Lens delivered excellent photography services for our wedding. They took the time to understand our vision and preferences, resulting in photos that captured the essence of our special day. The team was professional, friendly, and talented. We highly recommend Love Lens for wedding photography!"
+    },
+    {
+        "couple": "Chris & Rachel",
+        "title": "High-Quality Prints and Albums",
+        "reviewer_image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/oxj2gtukdxs4efucvpqa/Outdoor%20Wedding%20Photography%20in%20Jeju%2C%20South%20Korea.jpg",
+        "rating": 4.8,
+        "review_title": "Beautiful Albums!",
+        "review": "We ordered high-quality prints and albums from Love Lens, and we are thrilled with the results. The prints are vibrant and detailed, and the albums are beautifully crafted. They truly showcase our wedding day in the best way possible. Thank you, Love Lens, for the exceptional products!"
+    },
+    {
+        "couple": "Tom & Megan",
+        "title": "High-Quality Prints and Albums",
+        "reviewer_image": "https://cdn0.hitched.co.uk/article/9427/original/1280/png/137249-joe-lillywhite.jpeg",
+        "rating": 4.9,
+        "review_title": "Impressive Quality!",
+        "review": "The prints and albums provided by Love Lens are of impressive quality. Every detail is perfect, and the craftsmanship is exceptional. We are so happy with how our wedding photos turned out in print. Thank you, Love Lens, for delivering such outstanding products!"
+    },
+    {
+        "couple": "Jack & Lily",
+        "title": "Second Shooter Option",
+        "reviewer_image": "https://abia.com.au/abia-admin/ckfinder/userfiles/images/best-wedding-photographers-brisbane-gold-coast-sunshine-coast.png",
+        "rating": 4.6,
+        "review_title": "Great Addition to Our Coverage!",
+        "review": "We opted for the second shooter option with Love Lens, and it was a great addition to our wedding coverage. The second shooter captured unique angles and moments, enhancing the overall experience. We appreciate the thorough coverage provided by Love Lens and would recommend this option to others!"
+    },
+    {
+        "couple": "Nathan & Sophia",
+        "title": "Second Shooter Option",
+        "reviewer_image": "https://cdn0.weddingwire.ca/article-real-wedding/183/3_2/1280/jpg/102321.jpeg",
+        "rating": 4.7,
+        "review_title": "Professional and Talented!",
+        "review": "The second shooter from Love Lens was professional and talented. They worked seamlessly with the primary photographer to capture every aspect of our wedding day. We are delighted with the photos and grateful for the comprehensive coverage provided by Love Lens!"
+    },
+    {
+        "couple": "Ethan & Emma",
+        "title": "Second Shooter Option",
+        "reviewer_image": "https://static.showit.co/1200/Vv1BrpByTti7_vmCuB783Q/123019/paige_lorraine_photography-54_websize.jpg",
+        "rating": 4.5,
+        "review_title": "Exceptional Team!",
+        "review": "Love Lens has an exceptional team of photographers. The second shooter option added depth and variety to our wedding coverage. They captured candid moments and details that we will cherish forever. Thank you, Love Lens, for the wonderful experience!"
     }
 ]
