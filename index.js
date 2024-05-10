@@ -49,13 +49,36 @@ async function run() {
             res.send(service);
         })
 
+        app.get('/reviews', async (req, res) => {
+            const query = {};
+            const cursor = reviewCollection.find(query);
+            const reviews = await cursor.toArray();
+            res.send(reviews);
+        })
+
         app.get('/reviews/:title', async (req, res) => {
             const title = req.params.title;
-            console.log(title)
             const query = { title: title };
             const cursor = reviewCollection.find(query);
             const reviews = await cursor.toArray();
             res.send(reviews);
+        })
+
+        app.get('/addReview/:title', async (req, res) => {
+            const title = req.params.title;
+            const query = { title: title }
+            const addReview = await serviceCollection.findOne(query)
+            res.send(addReview);
+        })
+
+
+        // reviews api
+
+        app.post('/reviews', async (req, res) => {
+            const query = req.body;
+            const result = await reviewCollection.insertOne(query);
+            res.send(result);
+
         })
 
     } finally {
