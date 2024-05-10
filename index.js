@@ -77,6 +77,13 @@ async function run() {
             res.send(addReview);
         })
 
+        app.get('/updateReview/:id', async (req, res) => {
+            const id = req.params.id;
+            const query = { _id: new ObjectId(id) }
+            const result = await reviewCollection.findOne(query)
+            res.send(result)
+        })
+
 
         // reviews api
 
@@ -91,6 +98,20 @@ async function run() {
             const id = req.params.id;
             const query = { _id: new ObjectId(id) }
             const result = await reviewCollection.deleteOne(query)
+            res.send(result);
+        })
+
+        app.patch('/updateReview/:id', async (req, res) => {
+            const id = req.params.id;
+            const filter = { _id: new ObjectId(id) };
+            const updatedReview = req.body;
+            const review = {
+                $set: {
+                    review_title: updatedReview.review_title,
+                    review: updatedReview.review
+                }
+            }
+            const result = await reviewCollection.updateOne(filter, review);
             res.send(result);
         })
 
