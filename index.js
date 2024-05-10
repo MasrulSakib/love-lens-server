@@ -49,7 +49,7 @@ async function run() {
             res.send(service);
         })
 
-        app.get('/myreviews', async (req, res) => {
+        app.get('/myReviews', async (req, res) => {
             let query = {};
 
             if (req.query.email) {
@@ -85,6 +85,13 @@ async function run() {
             const result = await reviewCollection.insertOne(query);
             res.send(result);
 
+        })
+
+        app.delete('/myReviews/:id', async (req, res) => {
+            const id = req.params.id;
+            const query = { _id: new ObjectId(id) }
+            const result = await reviewCollection.deleteOne(query)
+            res.send(result);
         })
 
     } finally {
